@@ -57,8 +57,3 @@ This project is an automated attendance system leveraging:
 - Enhance security with HTTPS certificate validation or OAuth.
 - Build a web dashboard for attendance analytics.
 
-
-## ​ License
-
-This project is licensed under the MIT License. See `LICENSE` for details.
-
